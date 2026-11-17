@@ -8,7 +8,7 @@ cover: asset:images/57eef5f490-download-75-.png
 description: "#newestdeals #dealsinaz #massivetv"
 ---
 
-{.small} _Alicia’s Deals may receive a small commission via affiliate links in this post. Please see my full disclosure here._
+{.small} _Alicia’s Deals may receive a small commission via affiliate links in this post. Please see my full disclosure here. test_
 
 ![](asset:images/57eef5f490-download-75-.png){.medium}
 
