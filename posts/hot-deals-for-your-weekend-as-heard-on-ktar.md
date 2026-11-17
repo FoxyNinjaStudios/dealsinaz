@@ -39,7 +39,7 @@ Check out what Brandi said:
 
 “Alicia,
 
-Thank you, thank you, thank you! I got a gorgeous pair of Lily Pulitzer glasses for my daughter and all I paid was a $15 shipping charge! They are fantastic, fit her perfectly, arrived in 3-days and we had the prescription checked by her Ophthalmologist and it is perfect! Even with insurance her glasses usually cost me about $100 so you saved me a bunch of $$!”
+Thank you, thank you, thank you! I got a gorgeous pair of Lily Pulitzer glasses for my daughter and all I paid was a \$15 shipping charge! They are fantastic, fit her perfectly, arrived in 3-days and we had the prescription checked by her Ophthalmologist and it is perfect! Even with insurance her glasses usually cost me about \$100 so you saved me a bunch of \$\$!”
 
 This is what Julie had to say:
 

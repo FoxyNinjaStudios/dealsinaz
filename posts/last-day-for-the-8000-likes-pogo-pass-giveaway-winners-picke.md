@@ -27,7 +27,7 @@ And LOTS LOTS more! Rattlers games, Brunswick bowling, Phoenix Rock Gym, Enchant
 
 ![p](https://dealsinaz.com/deals/wp-content/uploads/2014/05/p.png)
 
-To celebrate summer, the fact that Alicia’s Deals hit 8,000 “likes” (YAY), and the fact that the Pogo Pass is so great, I have TWO PASSES to GIVE AWAY! Don’t worry, if you buy passes and WIN, you’ll get your $$$ back.
+To celebrate summer, the fact that Alicia’s Deals hit 8,000 “likes” (YAY), and the fact that the Pogo Pass is so great, I have TWO PASSES to GIVE AWAY! Don’t worry, if you buy passes and WIN, you’ll get your \$\$\$ back.
 
 Here’s how to enter:
 

@@ -7,7 +7,7 @@ status: published
 
 ![applewatchhhhh](https://dealsinaz.com/deals/wp-content/uploads/2017/11/applewatchhhhh.png)
 
-[~~Head over here to score an Apple Watch (series 1) for $179, list price $~~](http://click.linksynergy.com/link?id=y2DT8GO2AJA&offerid=206959.888235510248&type=2&murl=https%3A%2F%2Fwww.macys.com%2Fshop%2Fproduct%2Fapple-watch-series-1-38mm-rose-gold-tone-aluminum-case-with-pink-sand-sport-band%3FID%3D3197614%26pla_country%3DUS%26CAGPSPN%3Dpla%26CAWELAID%3D120156340008813706%26CAAGID%3D32053495102%26CATCI%3Dpla-311858113658%26cm_mmc%3DGoogle_Watches_PLA-_-G_PLA_Watches%2B-%2BApple_Apple%2BWatch%2BSeries%2B1-_-147099649183-_-pg156063_c_kclickid_056ee623-a33c-4fa4-859b-e2489845d5e5%26trackingid%3D469x156063%26catargetid%3D120156340014396290%26cadevice%3Dc%26gclid%3DEAIaIQobChMIoomU84_U1wIVxol-Ch0FuwlWEAQYASABEgIS_PD_BwE)~~249!~~
+[~~Head over here to score an Apple Watch (series 1) for \$179, list price \$~~](http://click.linksynergy.com/link?id=y2DT8GO2AJA&offerid=206959.888235510248&type=2&murl=https%3A%2F%2Fwww.macys.com%2Fshop%2Fproduct%2Fapple-watch-series-1-38mm-rose-gold-tone-aluminum-case-with-pink-sand-sport-band%3FID%3D3197614%26pla_country%3DUS%26CAGPSPN%3Dpla%26CAWELAID%3D120156340008813706%26CAAGID%3D32053495102%26CATCI%3Dpla-311858113658%26cm_mmc%3DGoogle_Watches_PLA-_-G_PLA_Watches%2B-%2BApple_Apple%2BWatch%2BSeries%2B1-_-147099649183-_-pg156063_c_kclickid_056ee623-a33c-4fa4-859b-e2489845d5e5%26trackingid%3D469x156063%26catargetid%3D120156340014396290%26cadevice%3Dc%26gclid%3DEAIaIQobChMIoomU84_U1wIVxol-Ch0FuwlWEAQYASABEgIS_PD_BwE)~~249!~~
 
 ~~I'm still looking for discounts on the new series 3 but this seems like a great bargain as the 3 is $329.~~
 

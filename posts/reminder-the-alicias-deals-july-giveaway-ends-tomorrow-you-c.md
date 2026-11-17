@@ -7,7 +7,7 @@ status: published
 
 ![pogopass2](https://dealsinaz.com/deals/wp-content/uploads/2014/07/pogopass2.png)
 
-Just a quick reminder that the July giveaway for a pair of POGO Passes ENDS tomorrow! Pogo Pass got by far the most votes as the #1 Alicia’s Deal EVER! If you [buy your passes now](http://www.pogopass.com/?tracking=538564ac43871) and win, they’ll refund your $$$!
+Just a quick reminder that the July giveaway for a pair of POGO Passes ENDS tomorrow! Pogo Pass got by far the most votes as the #1 Alicia’s Deal EVER! If you [buy your passes now](http://www.pogopass.com/?tracking=538564ac43871) and win, they’ll refund your \$\$\$!
 
 Here’s how to enter :
 

@@ -16,7 +16,7 @@ noindex: true
 
 Arizona mom. Deal finder. Money saver. Here to help you live life better for less!
 
-[Learn more →](https://tejaswigowda.github.io/dealsinaz/about/)
+[Learn more →](https://dealsinaz.com/about/)
 
 ## Get the best deals delivered to your inbox!
 

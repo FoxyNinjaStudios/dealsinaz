@@ -77,7 +77,7 @@ Philadelphia cream cheese
 
 Kroger peanut butter
 
-P$$t sugar
+P\$\$t sugar
 
 **Safeway:**
 

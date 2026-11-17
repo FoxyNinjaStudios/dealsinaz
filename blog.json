@@ -2,8 +2,8 @@
   "title": "Alicia's Deals",
   "description": "Live Life Better For Less!",
   "author": "Alicia Markham",
-  "domain": "https://tejaswigowda.com/dealsinaz",
-  "repo": "tejaswigowda/dealsinaz",
+  "domain": "https://dealsinaz.com",
+  "repo": "FoxyNinjaStudios/dealsinaz",
   "theme": "default",
   "content": {
     "base": "https://raw.githubusercontent.com/{owner}/{repo}/{ref}/{path}"
@@ -30,7 +30,7 @@
     "headingFont": "serif",
     "width": "1200px",
     "topbar": {
-      "text": "Demo copy of a real site, not the original. Arizona's #1 Source for Local Deals & Savings! ♥",
+      "text": "Arizona's #1 Source for Local Deals & Savings! ♥",
       "links": [
         {
           "label": "Facebook",
@@ -65,35 +65,35 @@
       "links": [
         {
           "label": "Groceries",
-          "url": "https://tejaswigowda.github.io/dealsinaz/tags/groceries/"
+          "url": "https://dealsinaz.com/tags/groceries/"
         },
         {
           "label": "Restaurants",
-          "url": "https://tejaswigowda.github.io/dealsinaz/tags/restaurants/"
+          "url": "https://dealsinaz.com/tags/restaurants/"
         },
         {
           "label": "Amazon",
-          "url": "https://tejaswigowda.github.io/dealsinaz/tags/amazon/"
+          "url": "https://dealsinaz.com/tags/amazon/"
         },
         {
           "label": "Family Fun",
-          "url": "https://tejaswigowda.github.io/dealsinaz/tags/happiness/"
+          "url": "https://dealsinaz.com/tags/happiness/"
         },
         {
           "label": "Beauty",
-          "url": "https://tejaswigowda.github.io/dealsinaz/tags/self-care/"
+          "url": "https://dealsinaz.com/tags/self-care/"
         },
         {
           "label": "Holiday",
-          "url": "https://tejaswigowda.github.io/dealsinaz/tags/holiday/"
+          "url": "https://dealsinaz.com/tags/holiday/"
         },
         {
           "label": "As Seen on 3TV",
-          "url": "https://tejaswigowda.github.io/dealsinaz/tags/as-seen-on-3tv/"
+          "url": "https://dealsinaz.com/tags/as-seen-on-3tv/"
         },
         {
           "label": "Freebies",
-          "url": "https://tejaswigowda.github.io/dealsinaz/tags/free/"
+          "url": "https://dealsinaz.com/tags/free/"
         }
       ]
     },
@@ -102,19 +102,19 @@
       "links": [
         {
           "label": "About Alicia",
-          "url": "https://tejaswigowda.github.io/dealsinaz/about/"
+          "url": "https://dealsinaz.com/about/"
         },
         {
           "label": "Contact",
-          "url": "https://tejaswigowda.github.io/dealsinaz/contact/"
+          "url": "https://dealsinaz.com/contact/"
         },
         {
           "label": "Media",
-          "url": "https://tejaswigowda.github.io/dealsinaz/media/"
+          "url": "https://dealsinaz.com/media/"
         },
         {
           "label": "Archive",
-          "url": "https://tejaswigowda.github.io/dealsinaz/archive/"
+          "url": "https://dealsinaz.com/archive/"
         },
         {
           "label": "Facebook",
@@ -147,13 +147,12 @@
   "assets": {
     "base": "https://raw.githubusercontent.com/{owner}/{repo}/{sha}/{path}",
     "repos": {
-      "images": "tejaswigowda/dealsinaz/images"
+      "images": "tejaswigowda/dealsinaz/images",
+      "updates": "FoxyNinjaStudios/dealsinaz/images/wp-sync"
     }
   },
   "stylesheet": "linked",
-  "seo": {
-    "noindex": true
-  },
+  "seo": {},
   "comments": {
     "mode": "mailto",
     "to": "tejaswi@foxyninjastudios.com"

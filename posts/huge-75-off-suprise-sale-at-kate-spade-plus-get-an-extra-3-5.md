@@ -9,7 +9,7 @@ status: published
 
 I have been LOVING Kate Spade lately! Right now they are having a surprise sale where you can save up to 75% off!
 
-Here's how to save the most $$$:
+Here's how to save the most \$\$\$:
 
 ![kattteeeeee](https://dealsinaz.com/deals/wp-content/uploads/2015/05/kattteeeeee.png)
 

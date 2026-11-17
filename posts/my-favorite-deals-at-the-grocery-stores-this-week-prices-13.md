@@ -54,7 +54,7 @@ Boneless beef chuck roast: $3.77/lb.
 
 Coke, Pepsi, or 7Up 12 packs: $3.49/each when you buy 4
 
-Spring cleaning event: Send $40, save $\`10 on participating cleaning items
+Spring cleaning event: Send \$40, save \$\`10 on participating cleaning items
 
 **Sprouts:**
 

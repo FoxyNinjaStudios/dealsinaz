@@ -25,7 +25,7 @@ Not available on: Nov. 18-20; Dec. 3-9, 24-31; Jan. 16-17, 21-24; Feb. 9-11, 18-
 
 ![disneyland](https://dealsinaz.com/deals/wp-content/uploads/2014/10/disneyland.jpg)
 
-I can save you $$$ on tickets too! [Head over here to get an extra day FOR FREE when you go through my site](http://arestravel.com/7089_attraction-tickets_a18.html)!
+I can save you \$\$\$ on tickets too! [Head over here to get an extra day FOR FREE when you go through my site](http://arestravel.com/7089_attraction-tickets_a18.html)!
 
 Buy [three days and get four days, buy four days and get five days plus all three day+ passes include a magic morning admission!](http://arestravel.com/7089_attraction-tickets_a18.html)
 

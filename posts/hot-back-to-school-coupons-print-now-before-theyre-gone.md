@@ -15,7 +15,7 @@ status: published
 
 ![$1.00 off Mr. Sketch Scented Marker](http://cdn.enwdgts.com/coupons/image_MTg5MDAwMTc.png)
 
-These coupons will go FAST! [Head over here to save $.55 off Papermate pens, $1 off Expo markers, $,75 off Sharpie markers, $1 off Uni-ball pens, $1 offf Mr. Sketch scented markers](http://strk.enlnks.com/aff_c?offer_id=118&aff_id=4227&url_id=103&aff_sub5=MTg5MDAwMjE=&affsrc=1), and more!
+These coupons will go FAST! [Head over here to save \$.55 off Papermate pens, \$1 off Expo markers, \$,75 off Sharpie markers, \$1 off Uni-ball pens, \$1 offf Mr. Sketch scented markers](http://strk.enlnks.com/aff_c?offer_id=118&aff_id=4227&url_id=103&aff_sub5=MTg5MDAwMjE=&affsrc=1), and more!
 
 There are a limited number of prints available and when they're gone, they're gone!
 
