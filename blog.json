@@ -1,4 +1,5 @@
 {
+  "schemaVersion": 1,
   "title": "Alicia's Deals",
   "description": "Live Life Better For Less!",
   "author": "Alicia Markham",
@@ -41,7 +42,10 @@
     "groupon.com",
     "gr.pn"
   ],
-  "disclosure": "This post may contain affiliate links. If you make a purchase through these links, we may earn a commission at no extra cost to you.",
+  "disclosure": {
+    "text": "This post may contain affiliate links. If you make a purchase through these links, we may earn a commission at no extra cost to you.",
+    "skipIfPresent": "commission via affiliate links in this post"
+  },
   "content": {
     "base": "https://raw.githubusercontent.com/{owner}/{repo}/{ref}/{path}"
   },
