@@ -1,6 +1,6 @@
 ---
 slug: my-favorite-thanksgiving-week-deals-at-the-grocey-stores
-title: My Favorite Thanksgiving Week Deals at the Grocey Stores!
+title: My Favorite Thanksgiving Week Deals at the Grocery Stores!
 date: 2026-11-18T09:16
 tags: [HOT DEAL, Deals in Arizona, Groceries]
 status: published
