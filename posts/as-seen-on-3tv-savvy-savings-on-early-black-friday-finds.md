@@ -5,7 +5,7 @@ date: 2026-11-14
 tags: [As Seen on 3TV, BLACK FRIDAY, Holiday, HOT DEAL]
 status: published
 cover: asset:updates/wp/2026/11/unnamed-2.png
-description: Alicia’s Deals may receive a small commission via affiliate links in this post. Please see my full disclosure here. Thanks so much for tuning in to my 3TV Good Morning Arizona Segment featuring early Black Friday bargains! If you haven’t already, I hope you’ll join the FREE Alicia’s Deals Weekly…
+description: Best early Black Friday deals!
 aliases: ["2026/11/14/as-seen-on-3tv-savvy-savings-on-early-black-friday-finds"]
 ---
 
