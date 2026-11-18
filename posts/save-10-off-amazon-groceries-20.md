@@ -4,7 +4,7 @@ title: Save $10 Off Amazon Groceries ($20+)!
 date: 2026-11-18T13:23
 tags: [HOT DEAL, Amazon]
 status: published
-cover: auto
+cover: asset:images/dd12e622fd-images-13-.jpg
 description: Ten bucks off great grocery deals!
 ---
 
