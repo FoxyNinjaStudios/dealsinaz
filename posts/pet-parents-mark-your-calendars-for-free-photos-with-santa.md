@@ -7,3 +7,7 @@ status: published
 cover: auto
 description: Free at PetSmart
 ---
+
+{.small} _Alicia’s Deals may receive a small commission via affiliate links in this post. Please see my full disclosure_ [here](https://dealsinaz.com/about/)_._
+
+![](asset:images/410f534660-images-12-.jpg){.small}
