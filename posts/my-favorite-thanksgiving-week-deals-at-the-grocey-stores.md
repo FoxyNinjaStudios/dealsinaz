@@ -10,8 +10,6 @@ description: Prices Good 11/18-11/26!
 
 {.small} _Alicia’s Deals may receive a small commission via affiliate links in this post. Please see my full disclosure_ [here](https://dealsinaz.com/about/)_._
 
-![](https://azbigmedia.com/wp-content/uploads/2026/02/grocery-shopping-inflation.jpeg){.medium}
-
 The deals are out for the most important grocery week of the year! The prices below are good through Thursday, November 26th)!
 
 Remember: [Albertsons](https://www.albertsons.com/foru-guest.html?CMPID=ps_alb_sow_ecomb4u_goo_20210714_14225945734_125340914363_1421985680626_MerkleENT&psrc=g&gclsrc=aw.ds&gad_source=1&gad_campaignid=14225945734&gbraid=0AAAAADeuA_h8So_p9pL9Sb1RFF0JF-Orn&gclid=CjwKCAjwsrbTBhAvEiwA0Bpp4duZZDTAjzJ99egtZGM8HzAldEkLDQkZeVVZIdxixJs0eAp0gSaGiRoC84AQAvD_BwE), [Safeway](https://www.safeway.com/justforu-guest.html), [Bashas](https://pty.bashas.com/web/login)‘, [Fry’s,](https://www.frysfood.com/savingsoverview/?comingFrom=/savings/cl/coupons/) and [Sprouts](https://www.sprouts.com/sprouts-app/) all have apps and websites that give you extra digital deals when you take the time to look and digitally “clip” them. The [Safeway app](https://www.safeway.com/justforu-guest.html) saves me the most money…if you don’t have it, you’re spending too much there!
