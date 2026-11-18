@@ -2,6 +2,21 @@
   "version": 3,
   "posts": [
     {
+      "slug": "my-favorite-thanksgiving-week-deals-at-the-grocey-stores",
+      "title": "My Favorite Thanksgiving Week Deals at the Grocey Stores!",
+      "date": "2026-11-18T09:16",
+      "tags": [
+        "HOT DEAL",
+        "Deals in Arizona",
+        "Groceries"
+      ],
+      "excerpt": "Prices Good 11/18-11/26!",
+      "cover": "asset:images/wp-sync/wp/2026/06/gro-300x300-2-1.png",
+      "words": 703,
+      "status": "published",
+      "author": "Alicia Markham"
+    },
+    {
       "slug": "as-seen-on-3tv-savvy-savings-on-early-black-friday-finds",
       "title": "As Seen on 3TV…Savvy Savings on Early Black Friday Finds!",
       "date": "2026-11-14",
