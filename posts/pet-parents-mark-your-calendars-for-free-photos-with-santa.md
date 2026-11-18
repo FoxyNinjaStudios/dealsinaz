@@ -11,3 +11,9 @@ description: Free at PetSmart
 {.small} _Alicia’s Deals may receive a small commission via affiliate links in this post. Please see my full disclosure_ [here](https://dealsinaz.com/about/)_._
 
 ![](asset:images/410f534660-images-12-.jpg){.small}
+
+If you have a small pet, get ready for adorable fun at PetSmart. On December 12th and 13th from 2-5 PM you can stop by your closest location for FREE photos with the man in red.
+
+[Head over here](https://www.prnewswire.com/news-releases/petsmart-brings-back-beloved-holiday-tradition-with-free-pet-photos-with-santa-dec-12-13-302939480.html) for more information.
+
+Enjoy!
