@@ -56,6 +56,8 @@ Plainville Fresh Organic Turkey: $3.29/lb. (no thawing required!)
 
 Butterball frozen turkey breast: $12.99/48 oz.
 
+Butterball frozen turkey: $.79/lb.
+
 Specialty cheeses and crackers are a deal here! Check out the section :-)
 
 **Bashas'**:
