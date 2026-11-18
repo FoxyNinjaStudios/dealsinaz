@@ -8,13 +8,11 @@ cover: asset:images/wp-sync/wp/2026/06/gro-300x300-2-1.png
 description: Prices Good 11/18-11/26!
 ---
 
-{.small} _Alicia’s Deals may receive a small commission via affiliate links in this post. Please see my full disclosure_ [here](https://dealsinaz.com/about/)_._
-
 The deals are out for the most important grocery week of the year! The prices below are good through Thursday, November 26th)!
 
 Remember: [Albertsons](https://www.albertsons.com/foru-guest.html?CMPID=ps_alb_sow_ecomb4u_goo_20210714_14225945734_125340914363_1421985680626_MerkleENT&psrc=g&gclsrc=aw.ds&gad_source=1&gad_campaignid=14225945734&gbraid=0AAAAADeuA_h8So_p9pL9Sb1RFF0JF-Orn&gclid=CjwKCAjwsrbTBhAvEiwA0Bpp4duZZDTAjzJ99egtZGM8HzAldEkLDQkZeVVZIdxixJs0eAp0gSaGiRoC84AQAvD_BwE), [Safeway](https://www.safeway.com/justforu-guest.html), [Bashas](https://pty.bashas.com/web/login)‘, [Fry’s,](https://www.frysfood.com/savingsoverview/?comingFrom=/savings/cl/coupons/) and [Sprouts](https://www.sprouts.com/sprouts-app/) all have apps and websites that give you extra digital deals when you take the time to look and digitally “clip” them. The [Safeway app](https://www.safeway.com/justforu-guest.html) saves me the most money…if you don’t have it, you’re spending too much there !
 
-![Ibotta](https://home.ibotta.com/assets/ibotta-main-ruby.svg){.medium}
+![Ibotta](https://home.ibotta.com/assets/ibotta-main-ruby.svg){.small}
 
 [Head over here to check out Ibotta](http://ibotta.com/r/SyzDg) if you haven’t yet (or check out the new deals). It’s an app I’ve been talking about for years that gives you cashback for things you’re probably already buying! Plus, you’ll get a $10 bonus after your first offer! Score deals like $2.11 back when you buy Birds Eye Frozen Vegetables, $.50 back when you buy Stove Top Stuffing Mix, $1.50 back when you buy Breyer's Ice Cream, $.75 back when you buy Tate's Bake Shop Cookies, $.50 back when you buy Sister Schubert's Rolls, $1.75 back when you buy Ziploc Products, $2 back when you buy Corona beer, $3 back when you buy Bona Cleaner Refill, $2 back when you buy Protein Pints Ice Cream,$.75 back when you buy Fleischmann's RapidRise Plus Instant Yeast with Dough Enhancer, $1.75 back when you buy McCormick Pure Vanilla Extract, $1 back when you buy McCormick Spices or Seasonings, $1.50 back when you buy Pine-Sol Cleaners, $1.50 back when you buy Siggi's Yogurt Tubs, $.50 back when you buy Gold Medal Flour, and more.
 
