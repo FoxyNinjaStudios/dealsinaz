@@ -5,9 +5,11 @@ date: 2026-11-16
 tags: [Free, Holiday, EXPIRED]
 status: published
 cover: asset:updates/wp/2026/11/ferenderer.webp
-description: Free cards
+description: "#freecards"
 aliases: ["2026/11/16/score-a-set-of-six-premium-photo-cards-for-free-with-code-from-walgreens-23-99-value"]
 ---
+
+\#freecards
 
 _Alicia’s Deals may receive a small commission via affiliate links in this post. Please see my full disclosure_ [_here_](../about/)_._
 
