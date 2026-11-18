@@ -3,7 +3,7 @@
   "title": "Alicia's Deals",
   "description": "Live Life Better For Less!",
   "author": "Alicia Markham",
-  "domain": "https://dealsinaz.com",
+  "domain": "http://dealsinaz.com",
   "repo": "FoxyNinjaStudios/dealsinaz",
   "theme": "default",
   "cover": "asset:images/design/hero.png",
@@ -193,9 +193,9 @@
     }
   },
   "stylesheet": "linked",
-  "seo": {},
   "comments": {
     "mode": "mailto",
     "to": "tejaswi@foxyninjastudios.com"
-  }
+  },
+  "favicon": "asset:images/design/hero.png"
 }
