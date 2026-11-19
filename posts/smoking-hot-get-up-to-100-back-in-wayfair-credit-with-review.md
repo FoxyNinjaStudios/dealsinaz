@@ -3,7 +3,7 @@ slug: smoking-hot-get-up-to-100-back-in-wayfair-credit-with-review
 title: Smoking Hot! Get Up to 100% Back in Wayfair Credit With Reviews on Select Items (Max $2000 a Year)!
 date: 2026-11-05
 author: Alicia
-tags: [Gift ideas, HOT DEAL]
+tags: [Gift ideas, HOT DEAL, Home Improvement, Holiday, Happiness]
 status: published
 cover: asset:images/wp/2026/11/download-74.png
 ---
