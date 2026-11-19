@@ -4,7 +4,7 @@ title: HOT Deal on Hot Chocolate!
 date: 2026-11-19T06:59
 tags: [Amazon, HOT DEAL]
 status: published
-cover: auto
+cover: asset:images/881bb6caff-e4a54b55-c2ee-47a4-b175-87da2fd57a34.png
 description: With Marshmallows!
 ---
 
