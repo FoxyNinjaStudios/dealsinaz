@@ -2,6 +2,20 @@
   "version": 3,
   "posts": [
     {
+      "slug": "hot-deal-on-hot-chocolate",
+      "title": "HOT Deal on Hot Chocolate!",
+      "date": "2026-11-19T06:59",
+      "tags": [
+        "Amazon",
+        "HOT DEAL"
+      ],
+      "excerpt": "With Marshmallows!",
+      "cover": null,
+      "words": 58,
+      "status": "published",
+      "author": "Alicia Markham"
+    },
+    {
       "slug": "pet-parents-mark-your-calendars-for-free-photos-with-santa",
       "title": "Pet Parents Mark Your Calendars for FREE Photos With Santa!",
       "date": "2026-11-18T12:34",
