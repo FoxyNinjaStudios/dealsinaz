@@ -2,7 +2,7 @@
 slug: as-seen-on-3tv-get-ready-for-black-friday-and-save
 title: My Favorite Black Friday Deals as Seen on 3TV...Including a $100 Gift Card for $60!
 date: 2026-11-22T20:47
-tags: [holiday, happiness, gift ideas]
+tags: [holiday, happiness, gift ideas, "3tv"]
 status: published
 cover: auto
 description: Black Friday Bargains!
@@ -34,12 +34,12 @@ _Pro-Tip: Click through_ [_Rakuten first to score_](https://www.rakuten.com/r/AL
 
 - **IN-STORE DOORBUSTER (Friday at 6:00 AM Sharp):** Best Buy’s most talked-about deal is happening in-store only. Each location will have at least 50 **$100 gift cards on sale for just $60**! _(Limit 1 per person; valid on eligible purchases—get in line early!)_
 - [**65-Inch TCL Smart TV**](https://www.bestbuy.com/product/tcl-65-s4cf-series-4k-uhd-hdr-smart-tv-with-fire-tv-2026/J36QYTHZVP/sku/6687112) **— $229.99** _(Save a full $240!)_: Upgrade your living room for movie night without breaking the bank. You can snag this one online right now!
-- [**Shark PowerDetect Speed Cordless Vacuum**](http://shark%20-%20powerdetect%20speed%20cordless%20stick%20vacuum%20cleaner,%20hepa%20filtration,%2060%20min%20runtime,%20ia1121%20-%20ivory/) **— $199.99** _(Save a massive $300!)_: Tackle holiday messes effortlessly with this powerhouse cordless vacuum at more than half off.
+- [**Shark PowerDetect Speed Cordless Vacuum**](https://www.bestbuy.com/product/shark-powerdetect-speed-cordless-stick-vacuum-cleaner-hepa-filtration-60-min-runtime-ia1121-ivory/JXJVXL847Y/sku/6689453?utm_source=feed&extStoreId=&ref=212&loc=19586658668&gclsrc=aw.ds&gad_source=1&gad_campaignid=19586659889&gbraid=0AAAAAD-ORIhb8kcN0D_xUT3eu_C2nEuk4&gclid=CjwKCAiA5Y_YBhBbEiwAK5Dl7US4U1u2oZiPqm_D5IvWodrF0OrXXb35_dNHZVVZ2XZPP1FJPXi0ABoCG5cQAvD_BwE) **— $199.99** _(Save a massive $300!)_: Tackle holiday messes effortlessly with this powerhouse cordless vacuum at more than half off.
 
 📦 Can't-Miss Amazon Bargains
 
 - [**Samsung 65" "The Frame" TV — $897.96**](https://link.amazon/B03jtPr0D-%20Ivory) _(Reg. nearly $1,500!)_: This is the lowest price we see on this beauty! When you aren't watching your favorite shows, it transforms into a gorgeous piece of framed wall art.
-- [**40-Ounce Stanley Quencher — $22.50**](https://link.amazon/B03jtPr0D) _(Reg. $45 — 50% OFF!)_: They are offering the viral 40 oz. Stanley in almost every color for half price. Grab these now for effortless and hydrating holiday gifts!
+- [**40-Ounce Stanley Quencher — $22.50**](https://link.amazon/B0bezarsx) _(Reg. $45 — 50% OFF!)_: They are offering the viral 40 oz. Stanley in almost every color for half price. Grab these now for effortless and hydrating holiday gifts!
 
 🧸 Walmart Toy Steals & Friday In-Store Drop
 
