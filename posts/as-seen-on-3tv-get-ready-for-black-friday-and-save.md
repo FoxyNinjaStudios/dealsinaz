@@ -38,7 +38,7 @@ _Pro-Tip: Click through_ [_Rakuten first to score_](https://www.rakuten.com/r/AL
 
 📦 Can't-Miss Amazon Bargains
 
-- [**Samsung 65" "The Frame" TV — $897.96**](https://link.amazon/B03jtPr0D-%20Ivory) _(Reg. nearly $1,500!)_: This is the lowest price we see on this beauty! When you aren't watching your favorite shows, it transforms into a gorgeous piece of framed wall art.
+- [**Samsung 65" "The Frame" TV — $897.96**](https://link.amazon/B0f3KWN3A) _(Reg. nearly $1,500!)_: This is the lowest price we see on this beauty! When you aren't watching your favorite shows, it transforms into a gorgeous piece of framed wall art.
 - [**40-Ounce Stanley Quencher — $22.50**](https://link.amazon/B0bezarsx) _(Reg. $45 — 50% OFF!)_: They are offering the viral 40 oz. Stanley in almost every color for half price. Grab these now for effortless and hydrating holiday gifts!
 
 🧸 Walmart Toy Steals & Friday In-Store Drop
