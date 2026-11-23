@@ -38,7 +38,7 @@ _Pro-Tip: Click through_ [_Rakuten first to score_](https://www.rakuten.com/r/AL
 
 📦 Can't-Miss Amazon Bargains
 
-- [**Samsung 65" "The Frame" TV — $897.96**](https://link.amazon/B0f3KWN3A) _(Reg. nearly $1,500!)_: This is the lowest price we see on this beauty! When you aren't watching your favorite shows, it transforms into a gorgeous piece of framed wall art.
+- [**Samsung 65" "The Frame" TV — $897.96**](https://link.amazon/B0f3KWN3A) _(Reg. nearly $1,500!)_: This is a great price on this beauty! When you aren't watching your favorite shows, it transforms into a gorgeous piece of framed wall art.
 - [**40-Ounce Stanley Quencher — $22.50**](https://link.amazon/B0bezarsx) _(Reg. $45 — 50% OFF!)_: They are offering the viral 40 oz. Stanley in almost every color for half price. Grab these now for effortless and hydrating holiday gifts!
 
 🧸 Walmart Toy Steals & Friday In-Store Drop
@@ -49,7 +49,7 @@ _Pro-Tip: Click through_ [_Rakuten first to score_](https://www.rakuten.com/r/AL
 
 🎯 Target Tech & Toy Deals
 
-- [**AirPods Pro 3 Wireless Earbuds — $169.99**](https://trk.shophermedia.net/click.track?CID=443359&AFID=302333&SID=&url=https%3A%2F%2Fwww%2Etarget%2Ecom%2Fp%2Fap2022%2Dtrue%2Dwireless%2Dbluetooth%2Dheadphones%2F%2D%2FA%2D85978609) _(Save $80!)_: Score major savings on Apple's top wireless earbuds—an unbeatable gift for anyone on your list.
+- [**AirPods Pro 3 Wireless Earbuds — $149.99**](https://trk.shophermedia.net/click.track?CID=443359&AFID=302333&SID=&url=https%3A%2F%2Fwww%2Etarget%2Ecom%2Fp%2Fap2022%2Dtrue%2Dwireless%2Dbluetooth%2Dheadphones%2F%2D%2FA%2D85978609) _(Save $100!)_: Score major savings on Apple's top wireless earbuds—an unbeatable gift for anyone on your list.
 - [**Select LEGO Sets — 40% OFF**](https://trk.shophermedia.net/click.track?CID=443359&AFID=302333&SID=&url=https%3A%2F%2Fwww%2Etarget%2Ecom%2Fb%2Flego%2F%2D%2FN%2D56h5nZakkosZj48k8%3Ftype%3Dproducts%26content%5Fid%3DSTORY%2D48759)**!**: Stock up the gift closet now while popular sets are nearly half off.
 
 🍳 Kohl's Kitchen Deals + Bonus Kohl's Cash!
