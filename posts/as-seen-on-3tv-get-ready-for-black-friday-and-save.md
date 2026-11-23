@@ -33,7 +33,7 @@ They’ll mail you a Big Fat Check a couple of times a year. Once you make this 
 _Pro-Tip: Click through_ [_Rakuten first to score_](https://www.rakuten.com/r/ALICIA879?eeid=28187) [**_up to 8% cash back_**](https://www.rakuten.com/r/ALICIA879?eeid=28187) [_on your Best Buy haul_](https://www.rakuten.com/r/ALICIA879?eeid=28187)_!_
 
 - **IN-STORE DOORBUSTER (Friday at 6:00 AM Sharp):** Best Buy’s most talked-about deal is happening in-store only. Each location will have at least 50 **$100 gift cards on sale for just $60**! _(Limit 1 per person; valid on eligible purchases—get in line early!)_
-- [**65--Inch TCL Smart TV**](https://www.bestbuy.com/product/tcl-65-s4cf-series-4k-uhd-hdr-smart-tv-with-fire-tv-2026/J36QYTHZVP/sku/6687112) **— $229.99** _(Save a full $240!)_: Upgrade your living room for movie night without breaking the bank. You can snag this one online right now!
+- [**65-Inch TCL Smart TV**](https://www.bestbuy.com/product/tcl-65-s4cf-series-4k-uhd-hdr-smart-tv-with-fire-tv-2026/J36QYTHZVP/sku/6687112) **— $229.99** _(Save a full $240!)_: Upgrade your living room for movie night without breaking the bank. You can snag this one online right now!
 - [**Shark PowerDetect Speed Cordless Vacuum**](http://shark%20-%20powerdetect%20speed%20cordless%20stick%20vacuum%20cleaner,%20hepa%20filtration,%2060%20min%20runtime,%20ia1121%20-%20ivory/) **— $199.99** _(Save a massive $300!)_: Tackle holiday messes effortlessly with this powerhouse cordless vacuum at more than half off.
 
 📦 Can't-Miss Amazon Bargains
