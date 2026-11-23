@@ -1,6 +1,6 @@
 ---
 slug: as-seen-on-3tv-get-ready-for-black-friday-and-save
-title: As Seen on 3TV...Get Ready for Black Friday and Save!
+title: As Seen on 3TV...My Ultimate Black Friday Cheat Sheet!
 date: 2026-11-22T20:47
 tags: [holiday, happiness, gift ideas]
 status: published
@@ -63,5 +63,7 @@ _Pro-Tip: Click through_ [_Rakuten first to score_](https://www.rakuten.com/r/AL
 I'll be hunting down the best deals all week long, so keep checking back right here on the site!
 
 Wishing you and your family a wonderful, relaxing Thanksgiving! 🦃🧡
+
+![](asset:images/bc75aa7aaa-img-4107.jpeg){.small}
 
 {.small} _Alicia’s Deals may receive a small commission via affiliate links in this post. Please see my full disclosure here._
