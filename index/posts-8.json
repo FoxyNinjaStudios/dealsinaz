@@ -2,6 +2,21 @@
   "version": 3,
   "posts": [
     {
+      "slug": "as-seen-on-3tv-get-ready-for-black-friday-and-save",
+      "title": "As Seen on 3TV...Get Ready for Black Friday and Save!",
+      "date": "2026-11-22T20:47",
+      "tags": [
+        "holiday",
+        "happiness",
+        "gift ideas"
+      ],
+      "excerpt": "Black Friday Bargains!",
+      "cover": "asset:images/0bbbe09f0b-18e3f973-de8a-451c-8708-d8d20a8a82d4.png",
+      "words": 204,
+      "status": "published",
+      "author": "Alicia Markham"
+    },
+    {
       "slug": "as-seen-on-good-morning-arizona-part-2-save-big-at-the-groce",
       "title": "As Seen on Good Morning Arizona Part 2...Save Big at the Grocery Store Every Single Day!",
       "date": "2026-08-02",
