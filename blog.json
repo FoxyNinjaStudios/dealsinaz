@@ -199,6 +199,6 @@
   },
   "favicon": "asset:images/hero-removebg-preview.png",
   "analytics": {
-    "src": "https://www.googletagmanager.com/gtm.js?id=GTM-KRSJB2WL"
+    "src": "https://www.googletagmanager.com/gtm.js?id=GTM-KRSJB2WL&l=dataLayer"
   }
 }
